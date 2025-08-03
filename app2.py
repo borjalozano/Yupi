@@ -88,7 +88,7 @@ precio_dict = {
     "Helicóptero Inflable Infantil": {"Precio nuevo (CLP)": 3200000, "Precio venta (CLP)": 1400000},
     "Piano Musical Gigante": {"Precio nuevo (CLP)": 1300000, "Precio venta (CLP)": 600000},
     "Arco de Bienvenida Selvático": {"Precio nuevo (CLP)": 500000, "Precio venta (CLP)": 250000},
-    "Estructura Modular Multijuegos": {"Precio nuevo (CLP)": 22400000, "Precio venta (CLP)": 15000000},
+    "Estructura Modular Multijuegos": {"Precio nuevo (CLP)": 28500000, "Precio venta (CLP)": 15000000},
     "Zapateros Plásticos Infantiles (x2)": {"Precio nuevo (CLP)": 70000, "Precio venta (CLP)": 42000},
     "Nubes Decorativas de Espuma (x24)": {"Precio nuevo (CLP)": 350000, "Precio venta (CLP)": 160000},
     "Mesas de Cumpleaños y Sillas (x5 + x35)": {"Precio nuevo (CLP)": 750000, "Precio venta (CLP)": 350000},
