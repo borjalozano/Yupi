@@ -92,7 +92,7 @@ precio_dict = {
     "Zapateros Plásticos Infantiles (x2)": {"Precio nuevo (CLP)": 70000, "Precio venta (CLP)": 42000},
     "Nubes Decorativas de Espuma (x24)": {"Precio nuevo (CLP)": 350000, "Precio venta (CLP)": 160000},
     "Mesas de Cumpleaños y Sillas (x5 + x35)": {"Precio nuevo (CLP)": 750000, "Precio venta (CLP)": 350000},
-    "Otros juegos menores": {"Precio venta (CLP)": 60000}
+    "Otros juegos menores": {"Precio venta (CLP)": 50000}
 }
 
 for juego in juegos:
@@ -150,7 +150,7 @@ if "Otros juegos menores" in precio_dict:
     if "Precio venta (CLP)" in precios:
         st.markdown(f"🔻 Precio venta: ${precios['Precio venta (CLP)']:,.0f}")
 
-st.markdown("**Balancines Plásticos Individuales (x8) y Ballena Roja (x1)**")
+st.markdown("**Balancines Plásticos Individuales (x4) y Ballena Roja (x1)**")
 cols = st.columns([1, 0.01, 1])
 
 with cols[0]:
