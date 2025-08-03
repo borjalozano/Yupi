@@ -6,6 +6,7 @@ import base64
 st.set_page_config(page_title="Lote Completo de Juegos Yupi", layout="wide")
 
 st.title("🧸 Lote Completo de Juegos Yupi en Venta")
+st.video("images/videoyupi.MP4")
 st.markdown("""
 Catálogo completo de juegos disponibles. Todos los elementos están en buen estado general y pueden venderse de forma conjunta o por separado. Ideal para habilitar espacios infantiles, emprendimientos o negocios de recreación.
 """)
