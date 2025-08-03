@@ -5,9 +5,9 @@ import base64
 
 st.set_page_config(page_title="Lote Completo de Juegos Yupi", layout="wide")
 
-st.title("🧸 Lote Completo de Juegos Yupi en Venta")
+st.title("☕ Catálogo de Equipamiento y Mobiliario de Cafetería")
 st.markdown("""
-Catálogo completo de juegos disponibles. Todos los elementos están en buen estado general y pueden venderse de forma conjunta o por separado. Ideal para habilitar espacios infantiles, emprendimientos o negocios de recreación.
+Este catálogo incluye el mobiliario, equipamiento y utensilios completos de una cafetería operativa. Todos los ítems se encuentran en buen estado y están disponibles para venta en conjunto o por separado.
 """)
 
 
