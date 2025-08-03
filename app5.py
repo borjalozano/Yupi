@@ -6,9 +6,6 @@ import base64
 st.set_page_config(page_title="Lote Completo de Juegos Yupi", layout="wide")
 
 st.title("☕ Catálogo de Equipamiento y Mobiliario de Cafetería")
-st.markdown("""
-Este catálogo incluye el mobiliario, equipamiento y utensilios completos de una cafetería operativa. Todo se vende únicamente como un lote completo.
-""")
 
 
 items_cafe = [
