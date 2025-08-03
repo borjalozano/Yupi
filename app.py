@@ -6,7 +6,12 @@ import base64
 st.set_page_config(page_title="Lote Completo de Juegos Yupi", layout="wide")
 
 st.title("🧸 Lote Completo de Juegos Yupi en Venta")
-st.video("images/videoyupi.MP4")
+st.markdown(
+    '<div style="max-width:800px;margin:auto;"><video controls autoplay muted loop width="100%">'
+    '<source src="images/videoyupi.MP4" type="video/mp4">'
+    'Tu navegador no soporta video HTML5.</video></div>',
+    unsafe_allow_html=True
+)
 st.markdown("""
 Venta única de todos los juegos en conjunto. Incluye más de 10 elementos profesionales importados, en buen estado general. Ideal para iniciar un negocio infantil, habilitar un espacio de entretención o ampliar una oferta comercial existente.
 """)
