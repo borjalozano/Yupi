@@ -85,8 +85,8 @@ items_cafe = [
         "fotos": ["IMG_1890.jpeg", "IMG_1891.jpeg", "IMG_1892.jpeg"]
     },
     {
-        "nombre": "Mesas Cuadradas de Madera Thonet (x8)",
-        "descripcion": "Ocho mesas cuadradas con cubierta tipo Werzalit o Topalit de melamina resistente al exterior y a los rayos UV. Soportan sol, lluvia, cenizas, ácidos y grasas, siendo ideales para uso en terrazas o espacios interiores exigentes.",
+        "nombre": "8 mesas cuadradas de cubierta Wersalit marca Thonet",
+        "descripcion": "Superficie compuesta por múltiples capas de recubrimiento de resina de melamina resistente al exterior y a los rayos UV.",
         "medidas": "70 x 70 x 75 cm (aprox.)",
         "precio_nuevo": 4500000,
         "precio_venta": 1400000,

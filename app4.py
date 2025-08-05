@@ -85,11 +85,11 @@ items_cafe = [
         "fotos": ["IMG_1890.jpeg", "IMG_1891.jpeg", "IMG_1892.jpeg"]
     },
     {
-        "nombre": "Mesas Cuadradas de Madera Thonet (x8)",
-        "descripcion": "Ocho mesas cuadradas con base metálica redonda y cubierta resistente, compuesta por capas de resina de melamina que toleran sol, lluvia, cenizas, ácidos y grasas. Ideales para cafeterías, terrazas o exteriores expuestos al aire libre.",
+        "nombre": "8 Mesas Cuadradas de Cubierta Wersalit Marca Thonet",
+        "descripcion": "Superficie compuesta por múltiples capas de recubrimiento de resina de melamina resistente al exterior y a los rayos UV.",
         "medidas": "70 x 70 x 75 cm (aprox.)",
-        "precio_nuevo": 920000,
-        "precio_venta": 450000,
+        "precio_nuevo": 4500000,
+        "precio_venta": 1400000,
         "fotos": ["IMG_1893.jpeg", "IMG_1894.jpeg", "IMG_1895.jpeg"]
     },
     {
