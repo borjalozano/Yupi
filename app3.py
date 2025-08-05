@@ -89,7 +89,7 @@ items_cafe = [
         "descripcion": "Ocho mesas cuadradas con cubierta tipo Werzalit o Topalit de melamina resistente al exterior y a los rayos UV. Soportan sol, lluvia, cenizas, ácidos y grasas, siendo ideales para uso en terrazas o espacios interiores exigentes.",
         "medidas": "70 x 70 x 75 cm (aprox.)",
         "precio_nuevo": 4500000,
-        "precio_venta": 2000000,
+        "precio_venta": 1400000,
         "fotos": ["IMG_1893.jpeg", "IMG_1894.jpeg", "IMG_1895.jpeg"]
     },
     {
