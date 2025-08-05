@@ -86,7 +86,7 @@ items_cafe = [
     },
     {
         "nombre": "Mesas Cuadradas de Madera Thonet (x8)",
-        "descripcion": "Ocho mesas cuadradas con cubierta de madera oscura y base metálica redonda. Resistentes, ideales para cafetería o terraza interior.",
+        "descripcion": "Ocho mesas cuadradas con base metálica redonda y cubierta resistente, compuesta por capas de resina de melamina que toleran sol, lluvia, cenizas, ácidos y grasas. Ideales para cafeterías, terrazas o exteriores expuestos al aire libre.",
         "medidas": "70 x 70 x 75 cm (aprox.)",
         "precio_nuevo": 920000,
         "precio_venta": 450000,
